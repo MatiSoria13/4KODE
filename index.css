@@ -183,14 +183,20 @@ header a:hover {
 }
 
 #contact .container {
+    border-radius: 3%;
     text-align: center;
     padding: 100px 12px;
     background-color: #e67e22;
     color: white;
 }
 
+.section{
+    border-radius: 10%;
+}
+
 #contact form {
     max-width: 600px;
+    border-radius: 10%;
     margin: 0 auto;
     background-color: #ffffff;
     padding: 20px;
@@ -200,6 +206,7 @@ header a:hover {
 }
 
 #contact .form-group {
+    border-radius: 1%;
     margin-bottom: 20px;
 }
 
